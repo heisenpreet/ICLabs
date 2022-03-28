@@ -1,0 +1,6 @@
+user-agent: *
+Disallow: /forms/*
+
+
+user-agent: Googlebot
+Disallow: /forms/*
